@@ -1,5 +1,5 @@
-## Hi there 👋
-
+"The most dangerous form of blindness is thinking that your own perspective is the only reality"
+- Friedrich Nietzsche
 <!--
 **Tenuuukaa/Tenuuukaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
